@@ -26,12 +26,12 @@ const steps = [
   {
     id: '3',
     message: 'Claro. Aguarda unos instantes, te redirigiremos.',
-    trigger: () => router.push('http://localhost:3000'),
+    trigger: () => router.push('/'),
   },
   {
     id: '4',
     message: 'Claro. Aguarda unos instantes, te redirigiremos.',
-    trigger: () => router.push('http://localhost:3000/search?s=&d=true'),
+    trigger: () => router.push('/search?s=&d=true'),
   },
   {
     id: '5',
