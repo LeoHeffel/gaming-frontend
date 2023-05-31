@@ -1,6 +1,6 @@
 export const ENV = {
-  SERVER_HOST: "https://gaming-backend-forked-production.up.railway.app",
-  API_URL: "https://gaming-backend-forked-production.up.railway.app/api",
+  SERVER_HOST: "https://gaming-backend-final-production.up.railway.app",
+  API_URL: "https://gaming-backend-forked-final.up.railway.app/api",
   //SERVER_HOST: "http://127.0.0.1:1337", 
   //API_URL: "http://127.0.0.1:1337/api",
   ENDPOINTS: {
